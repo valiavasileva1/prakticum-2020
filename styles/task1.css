@@ -4,7 +4,7 @@
 }
 
 .text-color {
-    color: #B6B6B6;
+    color: #707680;
 }
 
 .logo-icon {
@@ -12,6 +12,10 @@
 }
 
 .btn-link {
-    
+    padding-top: 0.5rem;
+    padding-bottom:  0.5rem;
+    padding-right: 1.5rem;
+    padding-left: 1.5rem;
+    color:#000000;
 
 }
